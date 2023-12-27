@@ -9,7 +9,7 @@ We are an independent technology development group, focusing on game development
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/Im-Kilroy.png?size=100" width="100px;" alt="Rafael Photo"/><br>
+        <img src="https://github.com/Im-Kilroy.png?size=200" width="200px;" alt="Rafael Photo"/><br>
         <sub>
           <a href="https://github.com/Im-Kilroy">Rafael Henrique</a>
         </sub>
@@ -17,7 +17,7 @@ We are an independent technology development group, focusing on game development
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/monkyballistic.png?size=100" width="100px;" alt="Higor Photo"/><br>
+        <img src="https://github.com/monkyballistic.png?size=200" width="200px;" alt="Higor Photo"/><br>
         <sub>
           <a href="https://github.com/monkyballistic">Higor Ramos</a>
         </sub>
