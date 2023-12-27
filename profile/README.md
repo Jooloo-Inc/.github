@@ -1,3 +1,3 @@
 # Jooloo Software Inc.
 
-![logoJooLoo]([../images/FUNDO.png])
+![logoJooLoo](../images/FUNDO.png)
