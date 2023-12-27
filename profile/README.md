@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Jooloo-Inc/.github/blob/main/images/logo.png" width="100px;" /><br>
 
-Description!
+We are an independent technology development group, focusing on game development, physical simulations and software solutions.
 
 ## Cofounders
 
@@ -27,5 +27,13 @@ Description!
   </tr>
 </table>
 
+## Current Projects
 
+* 2D shooting online game.
+* Game Engine
+* Fluid Simulation in Rust
+
+## Contact
+
+You can contact us at joolooinc@gmail.com.
 
