@@ -1,3 +1,3 @@
 # Jooloo Software Inc.
 
-![logoJooLoo](../images/FUNDO.png)
+![logoJooLoo](https://github.com/Jooloo-Inc/.github/blob/main/images/FUNDO.png)
