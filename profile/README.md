@@ -4,7 +4,7 @@
 
 Description!
 
-##Cofounders
+## Cofounders
 
 <table>
   <tr>
