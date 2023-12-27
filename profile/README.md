@@ -1,6 +1,5 @@
 # Jooloo Software Inc.
 
-<img src="https://github.com/Jooloo-Inc/.github/blob/main/images/logo.png" width="100px;" /><br>
 
 We are an independent technology development group, focusing on game development, physical simulations and software solutions.
 
