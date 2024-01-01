@@ -19,7 +19,7 @@ We are an independent technology development group, focusing on game development
       <a href="#">
         <img src="https://github.com/monkyballistic.png?size=100" width="100px;" alt="Higor Photo"/><br>
         <sub>
-          <a href="https://github.com/monkyballistic">Higor de Melo</a>
+          <a href="https://github.com/monkyballistic">Higor "Monky" de Melo</a>
         </sub>
       </a>
     </td>
