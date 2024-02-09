@@ -34,5 +34,5 @@ We are an independent technology development group, focusing on game development
 
 ## Contact
 
-You can contact us at joolooinc@gmail.com.
+You can contact us at contato@jooloo.com.br .
 
