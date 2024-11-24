@@ -19,7 +19,7 @@ We are an independent technology development group, focusing on game development
       <a href="#">
         <img src="https://github.com/aliensatemybrain.png?size=100" width="100px;" alt="Higor Photo"/><br>
         <sub>
-          <a href="https://github.com/aliensatemybrain">Hugo</a>
+          <a href="https://github.com/aliensatemybrain">Higor de Melo</a>
         </sub>
       </a>
     </td>
